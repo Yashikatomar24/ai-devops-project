@@ -2,3 +2,7 @@ fastapi
 uvicorn
 scikit-learn
 joblib
+fastapi
+uvicorn
+scikit-learn
+joblib
