@@ -19,7 +19,7 @@ FastAPI
 Uvicorn
 Docker
 GitHub Actions
-📁 Project Structure
+ Project Structure
 ai-devops-project/
 │
 ├── app.py              # FastAPI application
